@@ -9,4 +9,6 @@ gördüğümüzde bu çalısma alanımızda boş bir repository oluşturmuş olu
 6-Working Space ve Stage'de kodlarımın durumunu görmek için git status komutunu kullanırız.
 7-Commit Stora (yani versiyon oluşturduğumuz yer)daki versiyonlarımızı görmek için git log --online komutunu kullanırız.
 8-Oluşturmuş olduğumuz versiyonu github'a gönderebilmek için git push <github repository adresi> yada devamlı kullanıcağımız
- bir repoysa git remote add origin <repo adresi>/git push -u master komutuyla github'a gönderebiliriz
+ bir repoysa git remote add origin <repo adresi>/git push -u master komutuyla github'a gönderebiliriz.
+9-Github'a gönderdiğimiz kodlarıda başka bir çalışma ortamına çekebilmek için git pull <github repo adresi> 
+yazarak çekebiliriz

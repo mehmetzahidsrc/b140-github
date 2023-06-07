@@ -12,3 +12,4 @@ gördüğümüzde bu çalısma alanımızda boş bir repository oluşturmuş olu
  bir repoysa git remote add origin <repo adresi>/git push -u master komutuyla github'a gönderebiliriz.
 9-Github'a gönderdiğimiz kodlarıda başka bir çalışma ortamına çekebilmek için git pull <github repo adresi> 
 yazarak çekebiliriz
+deneme
